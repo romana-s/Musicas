@@ -1,0 +1,43 @@
+html{
+	background-color: white;
+}
+
+body{
+	background-color:	
+}
+
+header{
+	background-color:#881DF2;
+	padding: 0 20px 0 20px;
+
+}
+
+h1 {
+	color: white;
+	font-family: 'Estonia', cursive;
+	font-size: 80px;
+	text-align: center;
+	padding: 0 20px 0 20px;
+	margin: 0;
+}
+
+p {
+	color: #7AA61B;
+	font-size: 50px;
+	padding: 0 20px 0 20px;
+}
+
+.subtexto {
+	color: #3F3D73;
+}
+
+h3 {
+	color: #365902;
+}
+img {
+	max-width: 50%;
+	max-beight: 50%;s
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
